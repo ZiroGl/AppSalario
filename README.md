@@ -74,6 +74,10 @@ Na tela principal, o usuário ira encontrar o campo para inserir seu salário, a
 
 <img src="https://github.com/user-attachments/assets/68e9b1a2-0ee8-4009-9f08-7420b18906f9" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/AppSalario/blob/main/AppSalario.apk"> Download APK </a>
+
 [![NPM](https://github.com/ZiroGl/AppSalario/blob/main/LICENSE)  
 
 ## 👨‍💻 Desenvolvedor 
